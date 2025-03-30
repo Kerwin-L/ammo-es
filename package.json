@@ -1,6 +1,6 @@
 {
   "name": "ammojs-es",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES module version of Ammo.js, a port of Bullet Physics to JavaScript",
   "main": "ammo.js",
   "module": "ammo-es.js",
@@ -17,14 +17,14 @@
     "physics-engine",
     "es-module"
   ],
-  "author": "",
+  "author": "LaoLuo",
   "license": "Zlib",
-  "homepage": "https://github.com/yourusername/ammojs-es",
+  "homepage": "https://github.com/Kerwin-L/ammo-es",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/ammojs-es.git"
+    "url": "git+https://github.com/Kerwin-L/ammo-es.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ammojs-es/issues"
+    "url": "https://github.com/Kerwin-L/ammo-es/issues"
   }
 }
